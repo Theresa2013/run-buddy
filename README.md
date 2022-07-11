@@ -11,7 +11,7 @@ A website that offers fitness training services.
 
 ## Website
 
-https://lernantino.github.io/run-buddy/
+https://theresa2013.github.io/run-buddy/
 
 ## GitHub
 
